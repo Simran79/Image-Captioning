@@ -1,12 +1,10 @@
 Flask==1.1.1
 Flask-Cors==3.0.8
 gunicorn==19.9.0
-itsdangerous==1.1.0
 numpy>=1.19.2
 h5py>=3.1.0
 pytz==2019.3
 six==1.15.0
-virtualenv==20.0.7
 Werkzeug==1.0.1
 wincertstore==0.2
 tensorflow>=2.2
