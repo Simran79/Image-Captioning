@@ -8,7 +8,7 @@ This is a flask web app which uses deep learning to generate the captions for ev
 ## Motivation
 We must first understand how important image captioning is to real world scenarios. The applications vary from self driving cars, aid to the blind, smart surveillance systems etc. Even the google image search can be made as good as google search. 
 
-[![](https://image-captioning-ai.herokuapp.com/)
+![](https://image-captioning-ai.herokuapp.com/)
 
 
 ## I/O
