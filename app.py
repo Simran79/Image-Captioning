@@ -6,7 +6,8 @@ from keras.applications.xception import Xception
 from keras.models import load_model
 from pickle import load
 import numpy as np
-from PIL import Image
+# from PIL import Image
+import Image
 import os
 # Flask utils
 from flask import Flask, redirect, url_for, request, render_template
