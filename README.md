@@ -10,6 +10,11 @@ We must first understand how important image captioning is to real world scenari
 
 [![](https://image-captioning-ai.herokuapp.com/)
 
+
+##I/O
+![](https://i.imgur.com/PxkscXM.jpg)
+![](https://i.imgur.com/iPa3MGf.jpg)
+
 ## Directory Tree 
 
 
