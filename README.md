@@ -41,6 +41,12 @@ We must first understand how important image captioning is to real world scenari
 [<img target="_blank" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" width=170>](https://flask.palletsprojects.com/en/1.1.x/) [<img target="_blank" src="https://number1.co.za/wp-content/uploads/2017/10/gunicorn_logo-300x85.png" width=280>](https://gunicorn.org) 
 
 
+## Flowchart
+![](https://i.imgur.com/0w6Cah1.png)
+
+## Model Architecture
+![](https://i.imgur.com/XRYW7Ul.png)
+
 
 ## Future Scope
 
